@@ -65,6 +65,10 @@ Therefore, participation during discussions and presentations as well as within 
 ### Project
 In an effort to simulate real Open Source software development, we will embark upon a team-based project (with team sizes being dictated by the number of enrolled students).
 
+### Extra Credit
+Through the course of the semester, students will have opportunities to earn extra credit.
+Opportunities will be shared as they come along.
+
 ### Breakdown
 Homework  
 Presentation  
