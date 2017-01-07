@@ -97,6 +97,7 @@ This is the planned schedule of events for the course. Since topics may run long
 
 ### Tues Jan 24
 * Discuss Open Source definition essay
+* Presentation about giving presentations: Dr. Rottman
 * Show how Open Source software can be changed
 * SDLC overview/refresher
 * Source Control - overview
