@@ -114,7 +114,7 @@ This is the planned schedule of events for the course. Since topics may run long
 
 ### Tues Jan 31
 * Source Control - Additional concepts
-  * Beware of "fork"
+  * Beware of "fork" term
   * Branching
   * Tags
 * Source Control - applied
@@ -128,13 +128,13 @@ This is the planned schedule of events for the course. Since topics may run long
 
 ### Tues Feb 7
 * Communities and their importance
-* Community models
+* Community models (part 1)
   * Open Source, closed governance
   * Lone wolf
   * Dump and run
 
 ### Thurs Feb 9
-* Open governance community models
+* Community models (part 2)
   * All volunteers
   * Paid membership
   * Invite only
@@ -174,6 +174,7 @@ This is the planned schedule of events for the course. Since topics may run long
 ### Thurs Mar 2
 * Licenses!!!
   * Questions that must be asked of every license
+    * What are the terms, are they compatible with planned use?
 * The "big"  licenses (source)[https://www.blackducksoftware.com/resources/data/top-20-open-source-licenses]
   * MIT
   * GPL 2/3
@@ -191,12 +192,16 @@ Mid term examination
 
 ### Tues Mar 14
 * Foundations
+  * Their role (some examples)
   * Non-for-profit types
 * **Homework**: Read (Chapter 3 - Mailing Lists/Message Forums)[http://producingoss.com/en/message-forums.html]
 
 ### Thurs Mar 16
 * Discuss communications tools learnings
 * Communications tools
+  * Mailing lists
+  * IRC
+  * Forums
 
 ### Tues Mar 21
 
