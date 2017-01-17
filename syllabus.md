@@ -246,3 +246,9 @@ May 9 (finals)
 May 11 (finals)
 
 (May 13 - semester close)
+
+
+## Thanks and Attributions
+This class has been shaped through input from many folks, but a few notable contributions are deserved:
+* [Seokchan (Channy) Yun's open-source-class](https://code.google.com/archive/p/open-source-class/)
+* [The Apache Software Foundation community development project](http://community.apache.org/) - ([mailing list archive](https://lists.apache.org/list.html?dev@community.apache.org))
