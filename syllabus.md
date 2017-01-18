@@ -69,6 +69,9 @@ In an effort to simulate real Open Source software development, we will embark u
 Through the course of the semester, students will have opportunities to earn extra credit.
 Opportunities will be shared as they come along.
 
+Visit the ISPC events for extra credit:
+http://mis.umsl.edu/Whats%20New/index.html
+
 ### Breakdown
 Homework  
 Presentation  
