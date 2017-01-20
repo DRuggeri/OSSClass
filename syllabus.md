@@ -69,7 +69,7 @@ In an effort to simulate real Open Source software development, we will embark u
 Through the course of the semester, students will have opportunities to earn extra credit.
 Opportunities will be shared as they come along.
 
-Visit the ISPC events for extra credit:
+Visit the ISPC events for extra credit opportunities:
 http://mis.umsl.edu/Whats%20New/index.html
 
 ### Breakdown
@@ -101,7 +101,6 @@ This is the planned schedule of events for the course. Since topics may run long
 ### Tues Jan 24
 * Discuss Open Source definition essay
 * Presentation about giving presentations: Dr. Rottman
-* Show how Open Source software can be changed
 * SDLC overview/refresher
 * Source Control - overview
   * Who gets the commit bit?
@@ -130,13 +129,30 @@ This is the planned schedule of events for the course. Since topics may run long
 * Guest Speaker: [Tom Manor](https://www.linkedin.com/in/thomas-manor-7aa2b110), RedHat - Why I trust Open Source software in my production environment
 
 ### Tues Feb 7
+* Building software
+  * Local builds
+  * Local tools
+* Build systems
+  * Overview
+    * What are they/Why do I care?
+    * Declaration of build steps
+  * CI
+  * CD
+
+### Thurs Feb 9
+* Managing dependencies
+  * What is a dependency?
+  * Why use a library?
+  * Automated dependency management
+
+### Tues Feb 14
 * Communities and their importance
 * Community models (part 1)
   * Open Source, closed governance
   * Lone wolf
   * Dump and run
 
-### Thurs Feb 9
+### Thurs Feb 16
 * Community models (part 2)
   * All volunteers
   * Paid membership
@@ -145,36 +161,41 @@ This is the planned schedule of events for the course. Since topics may run long
   * Wikipedia/Creative Commons
   * Open Education
   * Open Government
+
+### Tues Feb 21
+* Lab - Show how Open Source software can be changed
+  * Download
+  * Modify
+  * Build
+* **Homework**: Read Chapter 5 - (Economics of Open Source)[http://producingoss.com/en/money.html#economics-of-open-source] and (Types of Corporate Involvement)[http://producingoss.com/en/types-of-corporate-involvement.html]
+
+### Thurs Feb 23
+* Guest Speaker: [Brian Lock](https://www.linkedin.com/in/brian-lock-9390491), Pivotal - How we as a company make money with Open Source
 * **Homework**: Read (Chapter 3 - Bug Tracker)[http://producingoss.com/en/bug-tracker.html]
 
-### Tues Feb 14
-* Discuss bug tracking learnings
-* Bug Tracking - overview
+### Tues Feb 28
+* Discuss bug tracking chapter learnings
+* Issue Tracking - overview
+* Bugs vs issues
 
-### Thurs Feb 16
-* Bug Tracking - applied
+### Thurs Mar 2
+* Issue Tracking - applied
   * Lab: Create an issue
 * **Homework**: Create your own issue
   * If this issue is for our class, resolve it with a pull request
   * If this issue is in a real project, extra points if you resolve it!
 
-### Tues Feb 21
+### Tues Mar 7
+* Open time - questions/review for midterm
 * Go around the room
   * What issue did you report?
-* **Homework**: Read Chapter 5 - (Economics of Open Source)[http://producingoss.com/en/money.html#economics-of-open-source] and (Types of Corporate Involvement)[http://producingoss.com/en/types-of-corporate-involvement.html]
 
-### Thurs Feb 23
-* Guest Speaker: [Brian Lock](https://www.linkedin.com/in/brian-lock-9390491), Pivotal - How we as a company make money with Open Source
-* **Homework**: Read (Chapter 2 - Documentation)[http://producingoss.com/en/getting-started.html#documentation]
+### Thurs Mar 9
+Mid term examination
 
-### Tues Feb 28
-* Development best practices - Documentation
-  * MUST have files: README, CHANGELOG, LICENSE
-  * Wiki, FAQ, Website
-  * Developer guidelines
-  * Translation
+(Mar 13 - mid semester)
 
-### Thurs Mar 2
+### Tues Mar 14
 * Licenses!!!
   * Questions that must be asked of every license
     * What are the terms, are they compatible with planned use?
@@ -183,20 +204,6 @@ This is the planned schedule of events for the course. Since topics may run long
   * GPL 2/3
   * Apache 2
   * BSD
-
-### Tues Mar 7
-* Paper 2 (The Best Open Source License is...) is due
-* Open time - questions/review for midterm
-
-### Thurs Mar 9
-Mid term examination
-
-(Mar 13 - mid semester)
-
-### Tues Mar 14
-* Foundations
-  * Their role (some examples)
-  * Non-for-profit types
 * **Homework**: Read (Chapter 3 - Mailing Lists/Message Forums)[http://producingoss.com/en/message-forums.html]
 
 ### Thurs Mar 16
@@ -207,6 +214,7 @@ Mid term examination
   * Forums
 
 ### Tues Mar 21
+* Paper 2 (The Best Open Source License is...) is due
 
 ### Thurs Mar 23
 * Guest Speaker: [Chris Kampmeier](https://www.linkedin.com/in/ckampmeier), Mastercard - What is Innersourcing and why we want it
@@ -215,8 +223,17 @@ Mid term examination
 ### Thurs Mar 30 (spring break)
 
 ### Tues Apr 4
+* Foundations
+  * Their role (some examples)
+  * US Non-for-profit types
+* **Homework**: Read (Chapter 2 - Documentation)[http://producingoss.com/en/getting-started.html#documentation]
 
 ### Thurs Apr 6
+* Development best practices - Documentation
+  * MUST have files: README, CHANGELOG, LICENSE
+  * Wiki, FAQ, Website
+  * Developer guidelines
+  * Translation
 
 ### Tues Apr 11
 * The importance of credibility in the community
@@ -230,12 +247,15 @@ Mid term examination
 * Guest Speaker: [Rich Bowen](https://www.linkedin.com/in/rcbowen), Apache Software Foundation - The Apache Way
 
 ### Tues Apr 18
+* Software delivery methodologies
+  * Waterfall
+  * AGILE
 
 ### Thurs Apr 20
 
-### Tues Apr 28
+### Tues Apr 25
 
-### Thurs Apr 21
+### Thurs Apr 27
 
 ### Tues May 2
 
