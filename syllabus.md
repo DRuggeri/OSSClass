@@ -42,7 +42,7 @@ While presentations will be graded on content, a significant portion of the grad
 ### Papers
 Communicating well is crtically important in the world outside of the classroom and, similar to giving presentations, is a muscle that must be exercised regularly.
 Students will be tasked with writing short papers in the form of:
-* **Position papers** in which an opinion and supporting facts (pursuasive in nature) should be presented. These documents will be graded on grammar, composition and coherence to the assignment and argument since opinions vary.
+* **Position papers** in which an opinion and supporting facts (persuasive in nature) should be presented. These documents will be graded on grammar, composition and coherence to the assignment and argument since opinions vary.
 * **Summary documents** which should be written in a form suitable for a manager to understand the landscape or overview of a concept they are not familiar with. In addition to the points earned in position papers, these documents will also be graded on accuracy of their factual contents and the simplification of complex topics.
 
 #### Source Control for Pointy Hairs
