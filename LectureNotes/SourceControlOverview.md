@@ -141,7 +141,7 @@ svn commit -m "Update syllabus to push back assignment due date"
 * **Changeset** - a series of changes to one or more files or directories grouped together for a commit
 * **Diff/patch** - a textual representation of the differences between two or more files/directories
 * **Tag** - a label for a collection of files at a specific revision
-* **Branch** - an isolated copy of the code. Functions almost like a separate repository
+* **Branch** - an isolated copy of the code inside the formal repository. Functions almost like a fork, but is still part of the repository
 * **Trunk** - typical name for the development branch from which all branches came
 * **Merge** - moving/propagating a change from one branch to another. Also: the automatic combination by the version control system of two different changes to the same file
 * **Pull request** - (git) a request to incorporate (pull) the changes from one branch or repository to another. Often is a merge of commits from a fork or branch into mainline
