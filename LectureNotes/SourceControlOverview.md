@@ -30,29 +30,6 @@
     * How can we both work on the files at the same time?
   * Multiple people working on one file set can step on toes
 
-## Vocabulary
-* **Repository** - a hierarchical structure of files containing the objects under version control in addition to metadata about the history of the repository
-* **Fork** - a copy of a repository managed separately from the project's formal repository. This may be an individual's personal working repository before submitting changes or a whole new community spinning off from the project.
-* **Commit** - to make a change to a repository. With svn a commit is also a push.
-* **Push** - (git) to send the local repository's changes to a remote repository
-* **Log message** - an overview of why the change was made in a commit
-* **Update/Pull** - to synchronize changes from a remote server to the working set/local repository
-* **Checkout** - obtaining a copy of the repository at a specific version number (usually the latest commit)
-* **Clone** - (git) obtaining a copy of the repository at the latest commit
-* **Working copy** - the isolated, local set of files from the repository
-* **Revision** - a specific version of a file or directory
-* **Changeset** - a series of changes to one or more files or directories grouped together for a commit
-* **Diff/patch** - a textual representation of the differences between two or more files/directories
-* **Tag** - a label for a collection of files at a specific revision
-* **Branch** - an isolated copy of the code. Functions almost like a separate repository
-* **Trunk** - typical name for the development branch from which all branches came
-* **Merge** - moving/propagating a change from one branch to another. Also: the automatic combination by the version control system of two different changes to the same file
-* **Pull request** - (git) a request to incorporate (pull) the changes from one branch or repository to another. Often is a merge of commits from a fork or branch into mainline
-* **Conflict** - a situation in which two changes are made to the same file by different developers that cannot be automatically merged by the version control system. Typically the second push/commit must be modified to eliminate the conflict
-* **Lock** - to enforce the ability for only one developer to be able to write to specific files/directories in the repository
-* **Stash** - to temporarily store modifications in a working set such that the working set can be restored to the previous revision and restored to the stashed version later
-* **Log** - the list of revision identifiers with the time/date/author and log message of each revision
-* **Revert** - to restore a repository to a previous revision. Note that this is another commit and does not erase the previous commit(s)
 
 ## Important version control concepts
 * The master server is the canonical place for the code
@@ -148,3 +125,28 @@ Commit the changes to the master repository
 ```
 svn commit -m "Update syllabus to push back assignment due date"
 ```
+
+
+## Vocabulary
+* **Repository** - a hierarchical structure of files containing the objects under version control in addition to metadata about the history of the repository
+* **Fork** - a copy of a repository managed separately from the project's formal repository. This may be an individual's personal working repository before submitting changes or a whole new community spinning off from the project.
+* **Commit** - to make a change to a repository. With svn a commit is also a push.
+* **Push** - (git) to send the local repository's changes to a remote repository
+* **Log message** - an overview of why the change was made in a commit
+* **Update/Pull** - to synchronize changes from a remote server to the working set/local repository
+* **Checkout** - obtaining a copy of the repository at a specific version number (usually the latest commit)
+* **Clone** - (git) obtaining a copy of the repository at the latest commit
+* **Working copy** - the isolated, local set of files from the repository
+* **Revision** - a specific version of a file or directory
+* **Changeset** - a series of changes to one or more files or directories grouped together for a commit
+* **Diff/patch** - a textual representation of the differences between two or more files/directories
+* **Tag** - a label for a collection of files at a specific revision
+* **Branch** - an isolated copy of the code. Functions almost like a separate repository
+* **Trunk** - typical name for the development branch from which all branches came
+* **Merge** - moving/propagating a change from one branch to another. Also: the automatic combination by the version control system of two different changes to the same file
+* **Pull request** - (git) a request to incorporate (pull) the changes from one branch or repository to another. Often is a merge of commits from a fork or branch into mainline
+* **Conflict** - a situation in which two changes are made to the same file by different developers that cannot be automatically merged by the version control system. Typically the second push/commit must be modified to eliminate the conflict
+* **Lock** - to enforce the ability for only one developer to be able to write to specific files/directories in the repository
+* **Stash** - to temporarily store modifications in a working set such that the working set can be restored to the previous revision and restored to the stashed version later
+* **Log** - the list of revision identifiers with the time/date/author and log message of each revision
+* **Revert** - to restore a repository to a previous revision. Note that this is another commit and does not erase the previous commit(s)
