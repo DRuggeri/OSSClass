@@ -35,7 +35,7 @@
 * The master server is the canonical place for the code
   * With git, every local copy and fork is a complete copy of the original repository
     * Including all previous commits since ever
-    * And is now it's own repository
+    * And is now its own repository
       * You can commit/modify locally and offline
     * This allows for recovery of the repository if the central repository dies
 * Version Control all the things
