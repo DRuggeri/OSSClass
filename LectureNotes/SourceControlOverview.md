@@ -48,7 +48,7 @@
   * Notify when changes happen
   * Typically provide an email containing the diff
     * Most projects do this with their dev or vcs mailing list
-* Useful log messaged
+* Useful log messages
   * Make an overview of what and why you changed things
   * Do not just say what you did
   * Sucks: Modify input.c to rename counter variable
