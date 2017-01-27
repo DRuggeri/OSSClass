@@ -13,7 +13,7 @@ This course is intended to familiarize students with the concepts of Open Source
 Additionally, students should expect to be challenged in areas of personal development related to the business environment such as giving presentations, writing position papers and analyzing failures.
 
 ### Administrativia
-Daniel Ruggeri - druggeri primary.net  
+Toan Pham - tpham0630@gmail.com
 Tues/Thus 5:30pm - 6:45pm, 104 ESH  
 INFSYS 3898 (Undergrad)  
 INFSYS 6891 (Graduate)  
