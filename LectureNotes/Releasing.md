@@ -1,14 +1,14 @@
 
 ## Releases
-* Note #1... just be consistent
+* Note #1... just be consistent with g
 * Snapshot of code at a specific time
-  * Tags help hete
+  * Tags help here
   * "Set" of features/ fixes
 * A specific version of the software
   * Old bugs have been fixed
   * New bugs added
   * New features added
-  * New optiins added
+  * New options added
   * Incompatible changes
 * Is a file name followed by version number
   * usually a dash
