@@ -1,6 +1,6 @@
 
 ## Releases
-* Note #1... just be consistent with g
+* Note #1... just be consistent with naming your releases
 * Snapshot of code at a specific time
   * Tags help here
   * "Set" of features/ fixes
