@@ -256,6 +256,9 @@ Mid term examination
 ### Tues Apr 25
 
 ### Thurs Apr 27
+* Releasing software
+* Versioning
+* Release procedures
 
 ### Tues May 2
 
