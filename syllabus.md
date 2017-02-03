@@ -40,7 +40,7 @@ This is so each student gets experience in exercising their "marketing" muscle w
 While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aestetics of any materials presented as well as the ability to adhere to guiding principals for good presentations.
 
 ### Papers
-Communicating well is crtically important in the world outside of the classroom and, similar to giving presentations, is a muscle that must be exercised regularly.
+Communicating well is critically important in the world outside of the classroom and, similar to giving presentations, is a muscle that must be exercised regularly.
 Students will be tasked with writing short papers in the form of:
 * **Position papers** in which an opinion and supporting facts (persuasive in nature) should be presented. These documents will be graded on grammar, composition and coherence to the assignment and argument since opinions vary.
 * **Summary documents** which should be written in a form suitable for a manager to understand the landscape or overview of a concept they are not familiar with. In addition to the points earned in position papers, these documents will also be graded on accuracy of their factual contents and the simplification of complex topics.
@@ -129,44 +129,33 @@ This is the planned schedule of events for the course. Since topics may run long
 * Guest Speaker: [Tom Manor](https://www.linkedin.com/in/thomas-manor-7aa2b110), RedHat - Why I trust Open Source software in my production environment
 
 ### Tues Feb 7
+* Source Control - applied
+  * Another lab to wrap up concepts
+
+### Thurs Feb 9
 * Building software
   * Local builds
   * Local tools
+
+### Tues Feb 14
+* Managing dependencies
+  * What is a dependency?
+  * Why use a library?
+  * Automated dependency management
+
+### Thurs Feb 16
+* Lab - Show how Open Source software can be changed
+  * Download
+  * Modify
+  * Build
+
+### Tues Feb 21
 * Build systems
   * Overview
     * What are they/Why do I care?
     * Declaration of build steps
   * CI
   * CD
-
-### Thurs Feb 9
-* Managing dependencies
-  * What is a dependency?
-  * Why use a library?
-  * Automated dependency management
-
-### Tues Feb 14
-* Communities and their importance
-* Community models (part 1)
-  * Open Source, closed governance
-  * Lone wolf
-  * Dump and run
-
-### Thurs Feb 16
-* Community models (part 2)
-  * All volunteers
-  * Paid membership
-  * Invite only
-* Growth of open communities (non-code related)
-  * Wikipedia/Creative Commons
-  * Open Education
-  * Open Government
-
-### Tues Feb 21
-* Lab - Show how Open Source software can be changed
-  * Download
-  * Modify
-  * Build
 * **Homework**: Read Chapter 5 - (Economics of Open Source)[http://producingoss.com/en/money.html#economics-of-open-source] and (Types of Corporate Involvement)[http://producingoss.com/en/types-of-corporate-involvement.html]
 
 ### Thurs Feb 23
@@ -186,9 +175,9 @@ This is the planned schedule of events for the course. Since topics may run long
   * If this issue is in a real project, extra points if you resolve it!
 
 ### Tues Mar 7
-* Open time - questions/review for midterm
 * Go around the room
   * What issue did you report?
+* Open time - questions/review for midterm
 
 ### Thurs Mar 9
 Mid term examination
@@ -196,6 +185,24 @@ Mid term examination
 (Mar 13 - mid semester)
 
 ### Tues Mar 14
+* Communities and their importance
+* Community models (part 1)
+  * Open Source, closed governance
+  * Lone wolf
+  * Dump and run
+
+### Thurs Mar 16
+* Community models (part 2)
+  * All volunteers
+  * Paid membership
+  * Invite only
+* Growth of open communities (non-code related)
+  * Wikipedia/Creative Commons
+  * Open Education
+  * Open Government
+  * Open Street Maps
+
+### Tues Mar 21
 * Licenses!!!
   * Questions that must be asked of every license
     * What are the terms, are they compatible with planned use?
@@ -204,36 +211,26 @@ Mid term examination
   * GPL 2/3
   * Apache 2
   * BSD
-* **Homework**: Read (Chapter 3 - Mailing Lists/Message Forums)[http://producingoss.com/en/message-forums.html]
-
-### Thurs Mar 16
-* Discuss communications tools learnings
-* Communications tools
-  * Mailing lists
-  * IRC
-  * Forums
-
-### Tues Mar 21
-* Paper 2 (The Best Open Source License is...) is due
 
 ### Thurs Mar 23
 * Guest Speaker: [Chris Kampmeier](https://www.linkedin.com/in/ckampmeier), Mastercard - What is Innersourcing and why we want it
+* **Homework**: Read (Chapter 3 - Mailing Lists/Message Forums)[http://producingoss.com/en/message-forums.html]
 
 ### Tues Mar 28 (spring break)
 ### Thurs Mar 30 (spring break)
 
 ### Tues Apr 4
+* Discuss communications tools learnings
+* Communications tools
+  * Mailing lists
+  * IRC
+  * Forums
+* Paper 2 (The Best Open Source License is...) is due
+
+### Thurs Apr 6
 * Foundations
   * Their role (some examples)
   * US Non-for-profit types
-* **Homework**: Read (Chapter 2 - Documentation)[http://producingoss.com/en/getting-started.html#documentation]
-
-### Thurs Apr 6
-* Development best practices - Documentation
-  * MUST have files: README, CHANGELOG, LICENSE
-  * Wiki, FAQ, Website
-  * Developer guidelines
-  * Translation
 
 ### Tues Apr 11
 * The importance of credibility in the community
@@ -245,13 +242,19 @@ Mid term examination
 
 ### Thurs Apr 13
 * Guest Speaker: [Rich Bowen](https://www.linkedin.com/in/rcbowen), Apache Software Foundation - The Apache Way
+* **Homework**: Read (Chapter 2 - Documentation)[http://producingoss.com/en/getting-started.html#documentation]
 
 ### Tues Apr 18
+* Development best practices * Documentation
+  * MUST have files: README, CHANGELOG, LICENSE
+  * Wiki, FAQ, Website
+  * Developer guidelines
+  * Translation
+
+### Thurs Apr 20
 * Software delivery methodologies
   * Waterfall
   * AGILE
-
-### Thurs Apr 20
 
 ### Tues Apr 25
 
