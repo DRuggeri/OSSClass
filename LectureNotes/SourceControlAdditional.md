@@ -4,10 +4,10 @@
 * Can be an overloaded term
 * In git speak, it means copying the repository to a separate location
   * Usually a good thing
-    * ... since it's the start of a potential contribution
-    * ... or nothing at all
+    * ... since it's the start of a potential contribution
+    * ... or nothing at all
   * Either way "Give me a repository just like this one"
-* In community speak, it is a much more serio problem
+* In community speak, it is a much more serious problem
   * The community has come to a disagreement
     * Usually a major disagreement
     * Fundamental problem
@@ -53,11 +53,11 @@
     * The stable branch is less "loose"
       * Isolates active work from things ready for release
       * Requires a more deliberate act to get code into this branch
-      * Most projects have a process for this
+      * Most projects have a process for this
 * Reason to branch: features
   * Sometimes a feature requires a lot of changes
   * ... and collaborators
-    * Once you've used SCM right, it's hard to go back to non-collaborative development
+    * Once you've used SCM right, it's hard to go back to non-collaborative development
   * A branch can be created from an existing branch (stable or trunk) to work on just that feature
     * Allows people to commit and change the branch
     * Allows for experimentation
