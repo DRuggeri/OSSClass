@@ -1,6 +1,6 @@
 # Additional version control topics
 
-## Bewarethe word "fork"
+## Beware the word "fork"
 * Can be an overloaded term
 * In git speak, it means copying the repository to a separate location
   * Usually a good thing
