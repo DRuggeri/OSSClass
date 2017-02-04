@@ -131,6 +131,7 @@ This is the planned schedule of events for the course. Since topics may run long
 ### Tues Feb 7
 * Source Control - applied
   * Another lab to wrap up concepts
+* **Homework**: Read [Chapter 7 - Packaging](http://producingoss.com/en/producingoss.html#packaging-build-install) "Compilation and Installation" and "Binary packages" subsections
 
 ### Thurs Feb 9
 * Building software
