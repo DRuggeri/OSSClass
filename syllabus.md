@@ -70,15 +70,15 @@ Opportunities will be shared as they come along.
 * Attend [ISPC events](http://mis.umsl.edu/Whats%20New/index.html)
 
 ### Breakdown
-Homework	10
-Class Participation	10
-Paper: Source Control for Pointy hairs	20
-Paper: The best Open Source Licence is...	20
-Midterm	40
-Final	40
-Presentation: Topics Assigned 20
-Presentation: About My Favorite Project	20
-Total	180
+* Homework	10
+* Class Participation	10
+* Paper: Source Control for Pointy hairs	20
+* Paper: The best Open Source Licence is...	20
+* Midterm	40
+* Final	40
+* Presentation: Topics Assigned 20
+* Presentation: About My Favorite Project	20
+* Total	180
 
 
 ## Schedule
