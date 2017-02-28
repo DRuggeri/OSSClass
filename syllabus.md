@@ -70,11 +70,16 @@ Opportunities will be shared as they come along.
 * Attend [ISPC events](http://mis.umsl.edu/Whats%20New/index.html)
 
 ### Breakdown
-Homework
-Presentation
-Paper 1
-Paper 2
-Participation
+Homework	10
+Class Participation	10
+Paper: Source Control for Pointy hairs	20
+Paper: The best Open Source Licence is...	20
+Midterm	40
+Final	40
+Presentation: Topics Assigned 20
+Presentation: About My Favorite Project	20
+Total	180
+
 
 ## Schedule
 This is the planned schedule of events for the course. Since topics may run longer or come up short, expect some minor alterations. It's also important to note that *when you see **discussion** come up in the schedule, you should **expect the instructor to ask questions** that will verify your understanding/homework* as well as to cover some of the topics in depth.
