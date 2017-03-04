@@ -151,7 +151,7 @@ This is the planned schedule of events for the course. Since topics may run long
   * Build
 
 ### Tues Feb 21
-* Build systems - [lecture notes](LectureNotes/BuildSystems.md)
+* Build systems - [lecture notes](LectureNotes/CI_CD.md)
   * Overview
     * What are they/Why do I care?
     * Declaration of build steps
