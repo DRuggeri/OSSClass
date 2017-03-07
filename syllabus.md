@@ -283,4 +283,4 @@ May 11 (finals)
 This class has been shaped through input from many folks, but a few notable attributions are deserved:
 * [Seokchan (Channy) Yun's open-source-class](https://code.google.com/archive/p/open-source-class/)
 * [The Apache Software Foundation community development project](http://community.apache.org/) - ([mailing list archive](https://lists.apache.org/list.html?dev@community.apache.org))
-* [Karl Fogel](http://www.red-bean.com/kfogel/)'s work on the [Producing Open Source Software](http://producingoss.com/) book
+* [Karl Fogel](https://en.wikipedia.org/wiki/Karl_Fogel)'s work on the [Producing Open Source Software](http://producingoss.com/) book
