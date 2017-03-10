@@ -1,4 +1,4 @@
-= Communities
+# Communities
 
 * Generally speaking, the code cannot stand alone
 * Many people have to be involved in keeping it alive
