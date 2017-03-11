@@ -1,11 +1,22 @@
 # Community models
-
 * Shared from least to greatest community "factor"
 * For each one...
   * When is it right?
   * Challenges
   * Examples
-* What is governance?
+* The models are all about *governance*
+* What is governance (see definition)?
+  * Formally put together in bylaws, but not always done so formally as we'll see
+  * The set of rules around the project that determines who...
+    * ... gets commit bit
+    * ... is allowed to make decisions
+    * ... settles disputes
+    * ... sets community culture
+    * ... "owns" the project and branding
+    * ... determines the license
+  * Depending on governance model, this may also include corporate governance rules
+    * Regulatory/compliance
+    * Legal/risk
 
 # Models
 * Dump and run
@@ -145,6 +156,8 @@
   * Examples
     * Apache Software Foundation
     * Software Freedom Conservancy
-
+    
 # Vocabulary
-* 'Meritocracy' - Philosophy holding that power should be vested in individuals almost exclusively based on ability and talent. In Open Source communities, this also includes contribution to the project.
+* **governance** - a set of rules applicable to a project that defines important aspects of how decisions are made in the project
+* **bylaws** - a rule made by a company or society to control the actions of its members.
+* **Meritocracy** - Philosophy holding that power should be vested in individuals almost exclusively based on ability and talent. In Open Source communities, this also includes contribution to the project.
