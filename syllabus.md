@@ -188,15 +188,9 @@ Mid term examination
 ### Tues Mar 14
 * Communities and their importance - [lecture notes](LectureNotes/Communities.md)
 * Community models (part 1) - [lecture notes](LectureNotes/CommunityModels.md)
-  * Open Source, closed governance
-  * Lone wolf
-  * Dump and run
 
 ### Thurs Mar 16
 * Community models (part 2) - [lecture notes](LectureNotes/CommunityModels.md)
-  * All volunteers
-  * Paid membership
-  * Invite only
 * Growth of open communities (non-code related)
   * Wikipedia/Creative Commons
   * Open Education
