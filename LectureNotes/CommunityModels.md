@@ -87,10 +87,64 @@
       * The code isn't making them money, but it sure is driving their business
       * ACTIVE community participation (feedback is WELCOME)
 * Paid membership/Invite only
+  * The governing body is multiple entities, but access to the body is limited in some way
+    * The "entity" that governs the project is composed of more than one...
+      * Person
+      * Company
+      * *Commercial interest*
+    * Creates a governance _community_ for the project
+    * This makes it so no one "company/person" has final say
+    * Splits ownership of the project to a collective
+      * Reduces risk of one company failing and the project dying
+      * Reduces the ability for a particular industry to dominate the project
+    * Obtaining rights to the "governing board" is limited
+      * Sometimes seats are paid for
+      * Sometimes is done only by invite
+        * Status in the industry
+        * Commercial interest
+        * *NOT* merit based - that is our next model
+    * Often the governing body is a foundation
+      * A "single" entity composed of many
+      * More to come about foundations
   * When is it right?
+    * To expand the governance of the project beyond a single commercial interest
+      * Helps spread the load
+      * More perspectives
+    * When the project wants to show it is independent of one company
+    * Further community growth
+    * When you want to instill confidence in the project
   * Challenges
+    * Growing governance group creates growing opinions
+    * Managing the governing body becomes a task in addition to managing the code
+      * Conflicting interests and objectives have to be resolved
+      * Sometimes conflict can spill into code discussions
+      * Charter and rules for how to gain membership is neccessary
+    * Some view this as "pay to play"
+      * ... and consider it less-than-open
+    * Access to governing body is reserved for those who can afford it
   * Examples
+    * Eclipse
+    * OpenStack (note that individuals are also on board)
 * All volunteers (open code AND governance)
+  * Single governing body over the project that is open to anyone
+    * Nearly identical to previous example
+    * Except access to the board comes from project involvement
+      * Meritocracy (see definition)
+    * Often requires individuals, not companies, to participate
   * When is it right?
+    * As above, plus showing complete independence of the project from corporations
   * Challenges
+    * "Corporate shills"
+      * Individuals or teams that participate only to serve corporate interests
+      * Gives influence to a company when intended for individuals
+    * Governing an open governance board is, itself, a large challenge
+      * Often described as organized chaos
+      * Those that DO, may not be the best at LEADING
+    * Often made up entirely of volunteers
+      * See risks about Lone Wolf and volunteerism
   * Examples
+    * Apache Software Foundation
+    * Software Freedom Conservancy
+
+# Vocabulary
+* 'Meritocracy' - Philosophy holding that power should be vested in individuals almost exclusively based on ability and talent. In Open Source communities, this also includes contribution to the project.
