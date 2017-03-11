@@ -2,7 +2,6 @@
 
 * Shared from least to greatest community "factor"
 * For each one...
-  * Community "factor"
   * When is it right?
   * Challenges
   * Examples
@@ -16,7 +15,6 @@
     * Not watched for issues/bugs
     * User/code feedback not welcome or ignored
     * More or less a dead project
-  * Community factor: 0
   * When is it right?
     * Just get the code out there
     * Basic utility code
@@ -37,7 +35,6 @@
     * Feedback is welcomed in some way
     * Common on GitHub/SourceForge/etc
     * Generally not enough "critical mass" for a community
-  * Community factor: 1
   * When is it right?
     * Project is small
     * Desire to BEGIN a community
@@ -57,17 +54,43 @@
     * TeX from history lecture
       * Branding note in license
 * Open Source, closed governance
-  * Community factor
+  * A living project still controlled by a single point
+    * A step up from lone wolf
+    * Often maintained by a single "entity"
+    * Effort is made to SHOW that it isn't just "one person"
+    * Often much higher community involvement
+    * Common with companies who open their code
+      * Still want to control direction
+      * Want to focus on specific features
+    * The "entity" may actually be...
+      * A single person in a company, but shrouded by the company
+      * A delivery team in a company
+      * An entire department of a company
+      * An entire company
   * When is it right?
+    * Same as lone wolf, plus...
+    * Project is the foundation for a bigger project
+      * This isn't the service I provide, but is required by it
+      * Other projects depend on this one
   * Challenges
+    * Community direction is still "owned" by a central point
+    * Some view this model as a less-than-open model
+      * Idealism comes into play
+      * But the code is open, and that IS good
+    * The "entity" can take the project any direction
+      * Whether the community likes it or not
+      * A fork is an option, but forks still suck
+    * The "entity" can be torn between their goals and the community
   * Examples
+    * Netflix Open Source
+      * Lots of tools/utilities that Netflix controls
+      * The code isn't making them money, but it sure is driving their business
+      * ACTIVE community participation (feedback is WELCOME)
 * Paid membership/Invite only
-  * Community factor
   * When is it right?
   * Challenges
   * Examples
 * All volunteers (open code AND governance)
-  * Community factor
   * When is it right?
   * Challenges
   * Examples
