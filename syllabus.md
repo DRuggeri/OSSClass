@@ -220,12 +220,12 @@ Mid term examination
   * Mailing lists
   * IRC
   * Forums
-* Paper 2 (The Best Open Source License is...) is due
 
 ### Thurs Apr 6
 * Foundations - [lecture notes](LectureNotes/Foundations.md)
   * Their role (some examples)
   * US Non-for-profit types
+* Paper 2 (The Best Open Source License is...) is due
 
 ### Tues Apr 11
 * The importance of credibility in the community
