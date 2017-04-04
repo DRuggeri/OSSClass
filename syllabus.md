@@ -253,6 +253,9 @@ Mid term examination
   * AGILE
 
 ### Tues Apr 25
+* OSS Project presentations
+  * What is the project?
+  * Aspects about it (governance, community, etc)
 
 ### Thurs Apr 27
 * Releasing software - [lecture notes](LectureNotes/Releasing.md)
@@ -260,6 +263,7 @@ Mid term examination
 * Release procedures
 
 ### Tues May 2
+* Final exam review
 
 ### Thurs May 4
 * "Guest Speaker": [Daniel Ruggeri](https://www.linkedin.com/in/danielruggeri), business guy - How to not suck at business
