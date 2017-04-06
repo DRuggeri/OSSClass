@@ -256,11 +256,12 @@ Mid term examination
 * OSS Project presentations
   * What is the project?
   * Aspects about it (governance, community, etc)
+* **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 
 ### Thurs Apr 27
 * Releasing software - [lecture notes](LectureNotes/Releasing.md)
-* Versioning
-* Release procedures
+  * Versioning
+  * Release procedures
 
 ### Tues May 2
 * Final exam review
