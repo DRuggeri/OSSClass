@@ -235,6 +235,7 @@ Mid term examination
     * Contributor
     * Committer
     * Voter
+  * **Homework** Read [Chapter 4 - Social and Political Infrastructure - Consensus-based Democracy](http://producingoss.com/en/consensus-democracy.html)
 
 ### Thurs Apr 13
 * Guest Speaker: [Rich Bowen](https://www.linkedin.com/in/rcbowen), Apache Software Foundation - The Apache Way
