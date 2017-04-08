@@ -228,12 +228,13 @@ Mid term examination
 * Paper 2 (The Best Open Source License is...) is due
 
 ### Tues Apr 11
-* The importance of credibility in the community
-* A path to getting engaged
-  * User
-  * Contributor
-  * Committer
-  * Voter
+* Getting involved - [lecture notes](LectureNotes/GettingInvolved.md)
+  * The importance of credibility in the community
+  * A path to getting engaged
+    * User
+    * Contributor
+    * Committer
+    * Voter
 
 ### Thurs Apr 13
 * Guest Speaker: [Rich Bowen](https://www.linkedin.com/in/rcbowen), Apache Software Foundation - The Apache Way
