@@ -274,6 +274,7 @@ Mid term examination
 (May 6 - end of classes)
 
 May 9 (finals)
+* Held in 212 ESH
 
 May 11 (finals)
 
