@@ -90,9 +90,13 @@
       * Include attribution
   * BSD
     * Created by University of California Berkeley
-    * Permissive but viral
+    * Has some variants and is a "collection" of licenses
+      * 2 clause - (most common) Pretty much the same as MIT, but doesn't explicitly allow as much (though it is implicitly allowed)
+      * 3 clause - No endorsement by copyright holder
+      * 4 clause - Advertisements must acknowledge copyright holder
     * Derivatives must...
-      * Be BSD licensed
+      * Include a copy of the license
+      * Provide attribution
 
 Resources:
 https://en.m.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses
