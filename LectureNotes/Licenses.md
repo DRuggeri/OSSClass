@@ -76,8 +76,8 @@
     * Created by FSF
     * Copyleft license
     * Has variations
-      * AGPL - copyleft applies to network usage of the code
-      * LGPL - copyleft applies to software linking to this work
+      * AGPL - copyleft applies even to network usage of the code
+      * LGPL - copyleft stops at binary linking and including in larger works
     * Derivatives must...
       * Be licensed under GPL
       * Provide attribution
