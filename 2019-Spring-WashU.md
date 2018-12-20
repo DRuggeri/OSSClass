@@ -318,8 +318,6 @@ Most class periods will be split between lecture/discussion about Open Source So
 ### Mon May 6
 * Final examination
 
-(May 13 - semester close)
-
 
 ## Thanks and Attributions
 This class has been shaped through input from many folks, but a few notable attributions are deserved:
