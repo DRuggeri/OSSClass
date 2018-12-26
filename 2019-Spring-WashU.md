@@ -29,7 +29,8 @@ In full transparency, the assignments as well as how they are graded is shared i
 ### Team project
 This is the bulk of the grade you will earn as well as the primary focus of the class.
 Each student will participate in a team responsible for delivering a software product to a client.
-By the end of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) must be delivered.
+By the middle of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
+By the end of the semester, the final project with client feedback incorporated is expected.
 * Students will share ideas of projects in the second week
   * The client may be any real-world use case. Non-for-profits, corporate projects, campus projects, etc are all encouraged
   * You may not be your own client
@@ -40,9 +41,11 @@ By the end of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable
 
 Grading for the project will be based on effective execution of the following SDLC aspects:
 * Gathering requirements and understanding the client's needs
+* Incorporating client feedback into designs post-MVP
 * Overall project planning and timing
 * Time management and aligning deliverables in expected sprints
 * User experience and non-code materials (documentation, UI, ease of use, etc)
+* "Marketing" and presenting the final result
 * Effective use of team skills and individual expertise
 * Client evaluation of the delivered product
 
@@ -139,7 +142,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Check-in:
   * You know your project well
   * Your teammates are now your closest friends :-)
-  * Analysis should be under way
+  * Analysis should be well under way
 
 ### Mon Jan 28
 * Topic: Source Control - [lecture notes](LectureNotes/SourceControlOverview.md)
@@ -224,8 +227,10 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Sprint 3 retro
 * Plan and outline sprint 4
 * Check-in:
-  * Mid semester - design should be fairly solid
-  * Overall design should be signed off by client
+  * MVP!!!
+  * Major internal system integrations are in place
+  * Major external system integrations are well under way
+  * Overall design should be complete
   * Begin designing/creating documentation
 
 ### Mon Mar 11 - Spring Break
@@ -252,8 +257,10 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Sprint 4 retro
 * Plan and outline sprint 5
 * Check-in:
-  * Integration of code pieces should be under way
+  * Client has reviewed MVP and provided feedback
+  * Integration of code pieces should be well under way
   * Test cases should be in place for units
+  * Plan to integrate client feedback into project
 * **Homework**: Read [Chapter 3 - Mailing Lists/Message Forums](http://producingoss.com/en/message-forums.html)
 
 ### Mon Apr 1
@@ -280,8 +287,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Sprint 5 retro
 * Plan and outline final sprint
 * Check-in:
-  * Major internal system integrations are in place
-  * Major external system integrations are well under way
+  * Client has reviewed the updates based on their feedback
+  * Get more client feedback!!!
   * Presentation plannning has started
 
 ### Mon Apr 15
@@ -305,7 +312,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open time - final exam review
 * Sprint 6 retro
 * Check-in:
-  * Code should work
+  * Client loves the project
   * Documentation should be in place
   * Presentation should be ready
 
