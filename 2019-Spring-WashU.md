@@ -101,15 +101,16 @@ Opportunities will be shared as they come along.
 * Attend [ACM events](https://acm.wustl.edu/)
 
 ### Breakdown
-* Team Project
-* Homework
-* Class Participation
-* Paper: Source Control for Pointy hairs
-* Paper: The best Open Source Licence is...
-* Midterm
-* Final
-* Presentation: About My Favorite Project
-* Total	
+| Item                                    | Points | Percentage |
+| --------------------------------------- | -----: | ---------: |
+| Homework                                |     20 |         4% |
+| Class Participation                     |     20 |         4% |
+| Paper: Source Control for Pointy hairs  |     30 |         6% |
+| Presentation: About My Favorite Project |     30 |         6% |
+| Midterm                                 |     50 |        10% |
+| Final                                   |     50 |        10% |
+| Team Project                            |    300 |        60% |
+| **Total**                               |    500 |            |
 
 
 ## Schedule
