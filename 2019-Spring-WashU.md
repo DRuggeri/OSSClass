@@ -15,7 +15,7 @@ Additionally, students should expect to be challenged in areas of personal devel
 
 ### Administrativia
 Daniel Ruggeri - druggeri primary.net 
-Mon/Wed 5:30pm - 7:30pm, 101 [Lopata Hall](https://goo.gl/maps/3rnB1baNspK2)
+Mon/Wed 5:30pm - 7:00pm, 101 [Lopata Hall](https://goo.gl/maps/3rnB1baNspK2)
 E81 CSE 437S (Undergrad)
 
 #### Textbook
