@@ -18,6 +18,8 @@ Daniel Ruggeri - druggeri primary.net
 Mon/Wed 5:30pm - 7:00pm, 101 [Lopata Hall](https://goo.gl/maps/3rnB1baNspK2)
 E81 CSE 437S (Undergrad)
 
+Daniel Evans - evans23 wustl.edu
+
 #### Textbook
 Open Source Software ~ *Karl Fogel*  
 ISBN: 0596007590, ISBN-13: 978-0596007591  
