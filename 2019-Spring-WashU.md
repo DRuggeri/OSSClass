@@ -14,15 +14,19 @@ This course is intended to introduce students to the concepts of Open Source sof
 Additionally, students should expect to be challenged in areas of personal development related to the business environment such as giving presentations, writing position papers and performing the full lifecycle of software development in a team setting.
 
 ### Administrativia
-Daniel Ruggeri - druggeri primary.net 
-Mon/Wed 5:30pm - 7:00pm, 101 [Lopata Hall](https://goo.gl/maps/3rnB1baNspK2)
-E81 CSE 437S (Undergrad)
+Daniel Ruggeri - druggeri primary.net
 
 Daniel Evans - evans23 wustl.edu
 
+Mon/Wed 5:30pm - 7:00pm, 101 [Lopata Hall](https://goo.gl/maps/3rnB1baNspK2)
+
+E81 CSE 437S
+
 #### Textbook
-Open Source Software ~ *Karl Fogel*  
-ISBN: 0596007590, ISBN-13: 978-0596007591  
+Open Source Software ~ *Karl Fogel*
+
+ISBN: 0596007590, ISBN-13: 978-0596007591
+
 Download free at [http://producingoss.com/](http://producingoss.com/)
 
 ## Assignments and Grading
