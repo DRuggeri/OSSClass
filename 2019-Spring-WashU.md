@@ -150,6 +150,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * You know your project well
   * Your teammates are now your closest friends :-)
   * Analysis should be well under way
+* **Homework**: Read [Chapter 3 - Version Control](http://producingoss.com/en/vc.html) section
 
 ### Mon Jan 28
 * Topic: Source Control - [lecture notes](LectureNotes/SourceControlOverview.md)
