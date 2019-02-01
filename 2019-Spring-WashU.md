@@ -13,7 +13,7 @@ This course is intended to introduce students to the concepts of Open Source sof
 
 Additionally, students should expect to be challenged in areas of personal development related to the business environment such as giving presentations, writing position papers and performing the full lifecycle of software development in a team setting.
 
-### Administrativia
+### Administrativa
 Daniel Ruggeri - druggeri primary.net
 
 Daniel Evans - evans23 wustl.edu
@@ -42,7 +42,7 @@ By the end of the semester, the final project with client feedback incorporated 
   * You may not be your own client
   * Your client and their satisfaction is greatly important
 * Teams will be self-formed by the students and will consist of five to seven students
-  * Each member of the team will recieve the same grade for the project as a whole
+  * Each member of the team will receive the same grade for the project as a whole
   * Choose your team mates wisely - ensure coverage of important skills (code and non-code)
 
 Grading for the project will be based on effective execution of the following SDLC aspects:
@@ -76,7 +76,7 @@ The reason for this requirement is two-fold:
 * To ensure a certain level of mastery *in giving a presentation*
 
 This is so each student gets experience in exercising their "marketing" muscle which is not only required in the world of business, but also the world of Open Source.
-While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aestetics of any materials presented as well as the ability to adhere to guiding principals for good presentations.
+While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aesthetics of any materials presented as well as the ability to adhere to guiding principles for good presentations.
 
 Some ideas:
 * Why I love the (name) Open Source project
@@ -297,7 +297,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Check-in:
   * Client has reviewed the updates based on their feedback
   * Get more client feedback!!!
-  * Presentation plannning has started
+  * Presentation planning has started
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
