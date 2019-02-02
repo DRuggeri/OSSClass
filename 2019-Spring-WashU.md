@@ -165,6 +165,9 @@ Most class periods will be split between lecture/discussion about Open Source So
 
 ### Mon Feb 4
 * Paper (Source Control for Pointy Hairs) is due
+  * 12:00 am 2/4/2019 (Sunday Night, Monday Morning)
+  * 1 Page Single Spaced
+  * Turn in to evans23 at wustl.edu
 * Topic: TODO
 * Team project presentations
   * Five to ten minutes, as a team
