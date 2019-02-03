@@ -15,10 +15,10 @@
   * Neither side will cave
   * The community itself is forked
     * Only solution is to split into two projects
-    * Now directly competing with eachother
+    * Now directly competing with each other
       * ... for users
       * ... for developers
-      * ... aganst proprietary software, too
+      * ... against proprietary software, too
   * The code base now lives in two places
     * Actively maintained by separate devs
     * Potentially very different project cultures
