@@ -1,5 +1,5 @@
 # Computer Science and Engineering - Software Engineering Workshop
-An introduction and exploration of concepts and issues related to large-scale software systems development. Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development. Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation. Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability and others are addressed and resolved in a reasonable manner. Prerequisite: Junior or Senior standing
+An introduction and exploration of concepts and issues related to large-scale software systems development. Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development. Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation. Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability, and others are addressed and resolved in a reasonable manner. Prerequisite: Junior or Senior standing
 
 ## Course Overview
 This course is intended to introduce students to the concepts of Open Source software development as well as deliver a software product for a real-world client. Specific areas of focus are:
@@ -35,17 +35,17 @@ In full transparency, the assignments as well as how they are graded is shared i
 ### Team project
 This is the bulk of the grade you will earn as well as the primary focus of the class.
 Each student will participate in a team responsible for delivering a software product to a client.
-By the middle of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
+By the middle of the semester, an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
 By the end of the semester, the final project with client feedback incorporated is expected.
 * Students will share ideas of projects in the second week
   * The client may be any real-world use case. Non-for-profits, corporate projects, campus projects, etc are all encouraged
   * You may not be your own client
   * Your client and their satisfaction is greatly important
 * Teams will be self-formed by the students and will consist of five to seven students
-  * Each member of the team will recieve the same grade for the project as a whole
-  * Choose your team mates wisely - ensure coverage of important skills (code and non-code)
+  * Each member of the team will receive the same grade for the project as a whole
+  * Choose your teammates wisely - ensure coverage of important skills (code and non-code)
 
-Grading for the project will be based on effective execution of the following SDLC aspects:
+Grading for the project will be based on the effective execution of the following SDLC aspects:
 * Gathering requirements and understanding the client's needs
 * Incorporating client feedback into designs post-MVP
 * Overall project planning and timing
@@ -76,13 +76,13 @@ The reason for this requirement is two-fold:
 * To ensure a certain level of mastery *in giving a presentation*
 
 This is so each student gets experience in exercising their "marketing" muscle which is not only required in the world of business, but also the world of Open Source.
-While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aestetics of any materials presented as well as the ability to adhere to guiding principals for good presentations.
+While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aesthetics of any materials presented as well as the ability to adhere to guiding principals for good presentations.
 
 Some ideas:
 * Why I love the (name) Open Source project
 * Five ways to make money on Open Source
 * An analysis of Open Source license X versus license Y
-* A guide to getting start in an Open Source project
+* A guide to getting started in an Open Source project
 
 ### Writing
 Communicating well is critically important in the world outside of the classroom and, similar to giving presentations, is a muscle that must be exercised regularly.
@@ -122,7 +122,7 @@ Opportunities will be shared as they come along.
 ## Schedule
 This is the planned schedule of events for the course.
 Since topics may run longer or come up short, expect some minor alterations.
-It's also important to note that *when you see **discussion** come up in the schedule, you should **expect the instructor to ask questions** that will verify your understanding/homework* as well as to cover some of the topics in depth.
+It's also important to note that *when you see **discussion** comes up in the schedule, you should **expect the instructor to ask questions** that will verify your understanding/homework* as well as to cover some of the topics in depth.
 
 Most class periods will be split between lecture/discussion about Open Source Software topics or class-wide work (30 to 45 minutes) with the remainder of the time dedicated to working within your teams and seeking guidance from the instructor.
 
@@ -300,7 +300,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Check-in:
   * Client has reviewed the updates based on their feedback
   * Get more client feedback!!!
-  * Presentation plannning has started
+  * Presentation planning has started
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
