@@ -13,7 +13,7 @@ This course is intended to introduce students to the concepts of Open Source sof
 
 Additionally, students should expect to be challenged in areas of personal development related to the business environment such as giving presentations, writing position papers and performing the full lifecycle of software development in a team setting.
 
-### Administrativa
+### Administrativia
 Daniel Ruggeri - druggeri primary.net
 
 Daniel Evans - evans23 wustl.edu
