@@ -311,7 +311,7 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Translation
 
 ### Wed Apr 17
-* Topic: TODO
+* Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 
 ### Mon Apr 22
