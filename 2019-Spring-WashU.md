@@ -45,6 +45,7 @@ By the end of the semester, the final project with client feedback incorporated 
   * Each member of the team will receive the same grade for the project as a whole
   * Choose your teammates wisely - ensure coverage of important skills (code and non-code)
 
+
 Grading for the project will be based on the effective execution of the following SDLC aspects:
 * Gathering requirements and understanding the client's needs
 * Incorporating client feedback into designs post-MVP
@@ -76,7 +77,7 @@ The reason for this requirement is two-fold:
 * To ensure a certain level of mastery *in giving a presentation*
 
 This is so each student gets experience in exercising their "marketing" muscle which is not only required in the world of business, but also the world of Open Source.
-While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aesthetics of any materials presented as well as the ability to adhere to guiding principals for good presentations.
+While presentations will be graded on content, a significant portion of the grade will also come from organization of the content, aesthetics of any materials presented as well as the ability to adhere to guiding principles for good presentations.
 
 Some ideas:
 * Why I love the (name) Open Source project
@@ -311,7 +312,7 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Translation
 
 ### Wed Apr 17
-* Topic: TODO
+* Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 
 ### Mon Apr 22
