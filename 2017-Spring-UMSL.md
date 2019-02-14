@@ -14,7 +14,7 @@ Additionally, students should expect to be challenged in areas of personal devel
 
 ### Administrativia
 Daniel Ruggeri - druggeri primary.net  
-Tues/Thus 5:30pm - 9:45pm, 104 ESH  
+Tues/Thus 5:30pm - 6:45pm, 104 ESH  
 INFSYS 3898 (Undergrad)  
 INFSYS 6891 (Graduate)  
 
