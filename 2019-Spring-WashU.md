@@ -206,7 +206,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * **Homework**: Read Chapter 5 - [Economics of Open Source](http://producingoss.com/en/money.html#economics-of-open-source) and [Types of Corporate Involvement](http://producingoss.com/en/types-of-corporate-involvement.html)
 
 ### Wed Feb 20
-* Topic: TODO
+* Topic: Let's talk DevOps
 * Sprint 2 retro
 * Plan and outline sprint 3
 * Check-in:
@@ -251,14 +251,9 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Topic: Communities and their importance - [lecture notes](LectureNotes/Communities.md)
 
 ### Wed Mar 20
-* Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
-  * Questions that must be asked of every license
-    * What are the terms, are they compatible with planned use?
-  * The "big" licenses [source](https://www.blackducksoftware.com/resources/data/top-20-open-source-licenses)
-    * MIT
-    * GPL 2/3
-    * Apache 2
-    * BSD
+* Topic: Releasing software - [lecture notes](LectureNotes/Releasing.md)
+  * Versioning
+  * Release procedures
 
 ### Mon Mar 25
 * Topic: Community models (part 1) - [lecture notes](LectureNotes/CommunityModels.md)
@@ -315,9 +310,14 @@ Most class periods will be split between lecture/discussion about Open Source So
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 
 ### Mon Apr 22
-* Topic: Releasing software - [lecture notes](LectureNotes/Releasing.md)
-  * Versioning
-  * Release procedures
+* Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
+  * Questions that must be asked of every license
+    * What are the terms, are they compatible with planned use?
+  * The "big" licenses [source](https://www.blackducksoftware.com/resources/data/top-20-open-source-licenses)
+    * MIT
+    * GPL 2/3
+    * Apache 2
+    * BSD
 
 ### Wed Apr 24
 * Open time - final exam review
