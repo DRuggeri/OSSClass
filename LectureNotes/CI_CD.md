@@ -57,7 +57,7 @@
   * Keeps the feedback loop tight
     * Failure at any point should notify
     * Success at the end should notify
-    * You know as soon as possible when somethign isn't right
+    * You know as soon as possible when something isn't right
       * Colloquially referred to as "shifting left"
       
 ## Continuous Delivery
