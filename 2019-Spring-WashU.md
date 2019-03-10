@@ -30,9 +30,9 @@ ISBN: 0596007590, ISBN-13: 978-0596007591
 Download free at [http://producingoss.com/](http://producingoss.com/)
 
 ## Assignments and Grading
-In full transparency, the assignments as well as how they are graded is shared in this section
+In full transparency, the assignments as well as how they are graded are shared in this section
 
-### Team project
+### Team Project
 This is the bulk of the grade you will earn as well as the primary focus of the class.
 Each student will participate in a team responsible for delivering a software product to a client.
 By the middle of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
