@@ -258,8 +258,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 ### Mon Mar 25
 * Topic: Community models (part 1) - [lecture notes](LectureNotes/CommunityModels.md)
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Dorian Stubblefield
+    * Topic: Henry Ford's contribution to open source.
   * Presenter 2:
     * Topic:
   * Presenter 3:
