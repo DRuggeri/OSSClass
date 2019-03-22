@@ -257,6 +257,13 @@ Most class periods will be split between lecture/discussion about Open Source So
 
 ### Mon Mar 25
 * Topic: Community models (part 1) - [lecture notes](LectureNotes/CommunityModels.md)
+* Open Source Presentations
+  * Presenter 1: Dorian Stubblefield
+    * Topic: Henry Ford's contribution to open source.
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Mar 27
 * Topic: Community models (part 2) - [lecture notes](LectureNotes/CommunityModels.md)
@@ -268,17 +275,38 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Test cases should be in place for units
   * Plan to integrate client feedback into project
 * **Homework**: Read [Chapter 3 - Mailing Lists/Message Forums](http://producingoss.com/en/message-forums.html)
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 1
 * Topic: Communications tools - [lecture notes](LectureNotes/CommunicationsTools.md)
   * Mailing lists
   * IRC
   * Forums
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 3
 * Topic: Foundations - [lecture notes](LectureNotes/Foundations.md)
   * Their role (some examples)
   * US Non-for-profit types
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 8
 * Topic: Getting involved - [lecture notes](LectureNotes/GettingInvolved.md)
@@ -288,6 +316,13 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Contributor
     * Committer
     * Voter
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 10
 * Sprint 5 retro
@@ -296,6 +331,13 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Client has reviewed the updates based on their feedback
   * Get more client feedback!!!
   * Presentation planning has started
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
@@ -304,10 +346,24 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Wiki, FAQ, Website
     * Developer guidelines
     * Translation
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 22
 * Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
@@ -318,6 +374,13 @@ Most class periods will be split between lecture/discussion about Open Source So
     * GPL 2/3
     * Apache 2
     * BSD
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 24
 * Open time - final exam review
@@ -326,6 +389,13 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Client loves the project
   * Documentation should be in place
   * Presentation should be ready
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 29
 * Project presentations
