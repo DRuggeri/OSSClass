@@ -347,8 +347,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Developer guidelines
     * Translation
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Benjamin Choi
+    * Topic: MVC / Spring Framework
   * Presenter 2:
     * Topic:
   * Presenter 3:
