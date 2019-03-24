@@ -317,8 +317,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Committer
     * Voter
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Ethan Shry
+    * Topic: GraphQL > REST
   * Presenter 2:
     * Topic:
   * Presenter 3:
