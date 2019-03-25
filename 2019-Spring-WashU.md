@@ -30,9 +30,9 @@ ISBN: 0596007590, ISBN-13: 978-0596007591
 Download free at [http://producingoss.com/](http://producingoss.com/)
 
 ## Assignments and Grading
-In full transparency, the assignments as well as how they are graded is shared in this section
+In full transparency, the assignments as well as how they are graded are shared in this section
 
-### Team project
+### Team Project
 This is the bulk of the grade you will earn as well as the primary focus of the class.
 Each student will participate in a team responsible for delivering a software product to a client.
 By the middle of the semester, an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
@@ -207,7 +207,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 * **Homework**: Read Chapter 5 - [Economics of Open Source](http://producingoss.com/en/money.html#economics-of-open-source) and [Types of Corporate Involvement](http://producingoss.com/en/types-of-corporate-involvement.html)
 
 ### Wed Feb 20
-* Topic: TODO
+* Topic: Let's talk DevOps
 * Sprint 2 retro
 * Plan and outline sprint 3
 * Check-in:
@@ -252,17 +252,19 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Topic: Communities and their importance - [lecture notes](LectureNotes/Communities.md)
 
 ### Wed Mar 20
-* Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
-  * Questions that must be asked of every license
-    * What are the terms, are they compatible with planned use?
-  * The "big" licenses [source](https://www.blackducksoftware.com/resources/data/top-20-open-source-licenses)
-    * MIT
-    * GPL 2/3
-    * Apache 2
-    * BSD
+* Topic: Releasing software - [lecture notes](LectureNotes/Releasing.md)
+  * Versioning
+  * Release procedures
 
 ### Mon Mar 25
 * Topic: Community models (part 1) - [lecture notes](LectureNotes/CommunityModels.md)
+* Open Source Presentations
+  * Presenter 1: Dorian Stubblefield
+    * Topic: Henry Ford's contribution to open source.
+  * Presenter 2:
+    * Topic:
+  * Presenter 3: Joshua Gelbard
+    * Topic: Swift - Apple's Surprise Move
 
 ### Wed Mar 27
 * Topic: Community models (part 2) - [lecture notes](LectureNotes/CommunityModels.md)
@@ -274,17 +276,38 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Test cases should be in place for units
   * Plan to integrate client feedback into project
 * **Homework**: Read [Chapter 3 - Mailing Lists/Message Forums](http://producingoss.com/en/message-forums.html)
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3: Lucas Florence
+    * Topic: Five ways to make money on Open Source
 
 ### Mon Apr 1
 * Topic: Communications tools - [lecture notes](LectureNotes/CommunicationsTools.md)
   * Mailing lists
   * IRC
   * Forums
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 3
 * Topic: Foundations - [lecture notes](LectureNotes/Foundations.md)
   * Their role (some examples)
   * US Non-for-profit types
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 8
 * Topic: Getting involved - [lecture notes](LectureNotes/GettingInvolved.md)
@@ -294,6 +317,13 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Contributor
     * Committer
     * Voter
+* Open Source Presentations
+  * Presenter 1: Ethan Shry
+    * Topic: GraphQL > REST
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 10
 * Sprint 5 retro
@@ -302,6 +332,13 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Client has reviewed the updates based on their feedback
   * Get more client feedback!!!
   * Presentation planning has started
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
@@ -310,15 +347,41 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Wiki, FAQ, Website
     * Developer guidelines
     * Translation
+* Open Source Presentations
+  * Presenter 1: Benjamin Choi
+    * Topic: MVC / Spring Framework
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:Christian Anyanwu
+    * Topic: Why most of Machine Learning is Open Source
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 22
-* Topic: Releasing software - [lecture notes](LectureNotes/Releasing.md)
-  * Versioning
-  * Release procedures
+* Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
+  * Questions that must be asked of every license
+    * What are the terms, are they compatible with planned use?
+  * The "big" licenses [source](https://www.blackducksoftware.com/resources/data/top-20-open-source-licenses)
+    * MIT
+    * GPL 2/3
+    * Apache 2
+    * BSD
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2: Jin Han
+    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
+  * Presenter 3:
+    * Topic:
 
 ### Wed Apr 24
 * Open time - final exam review
@@ -327,6 +390,13 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Client loves the project
   * Documentation should be in place
   * Presentation should be ready
+* Open Source Presentations
+  * Presenter 1:
+    * Topic:
+  * Presenter 2:
+    * Topic:
+  * Presenter 3:
+    * Topic:
 
 ### Mon Apr 29
 * Project presentations
