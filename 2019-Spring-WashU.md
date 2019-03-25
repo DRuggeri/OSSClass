@@ -361,8 +361,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1:
     * Topic:
-  * Presenter 2:
-    * Topic:
+  * Presenter 2: Yipeng Wang
+    * Topic: Why Hugo Is the Best Open Source Static Site Generator
   * Presenter 3:
     * Topic:
 
