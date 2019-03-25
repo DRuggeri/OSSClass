@@ -351,8 +351,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: MVC / Spring Framework
   * Presenter 2:
     * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 3:Christian Anyanwu
+    * Topic: Why most of Machine Learning is Open Source
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
