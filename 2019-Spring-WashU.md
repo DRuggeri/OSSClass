@@ -262,8 +262,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Henry Ford's contribution to open source.
   * Presenter 2:
     * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Joshua Gelbard
+    * Topic: Swift - Apple's Surprise Move
 
 ### Wed Mar 27
 * Topic: Community models (part 2) - [lecture notes](LectureNotes/CommunityModels.md)
