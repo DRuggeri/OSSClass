@@ -302,8 +302,8 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Their role (some examples)
   * US Non-for-profit types
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: John Bisognano
+    * Topic: Scaling genomics with Spotify
   * Presenter 2:
     * Topic:
   * Presenter 3:
