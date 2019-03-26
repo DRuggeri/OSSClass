@@ -335,7 +335,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presenter 1:
     * Topic:
   * Presenter 2: David Huang
-    * Topic: Be careful who you trust
+    * Topic: Be careful who you trust (npm event-stream)
   * Presenter 3:
     * Topic:
 
