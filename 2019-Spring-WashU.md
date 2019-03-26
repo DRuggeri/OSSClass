@@ -279,8 +279,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1:
     * Topic:
-  * Presenter 2:
-    * Topic:
+  * Presenter 2:Nirek Sharma
+    * Topic: Why I Like VSCode
   * Presenter 3: Lucas Florence
     * Topic: Five ways to make money on Open Source
 
