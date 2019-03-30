@@ -363,8 +363,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic:
   * Presenter 2: Yipeng Wang
     * Topic: Why Hugo Is the Best Open Source Static Site Generator
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Shane Tong
+    * Topic: History and Future of JavaScript and Node.js
 
 ### Mon Apr 22
 * Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
