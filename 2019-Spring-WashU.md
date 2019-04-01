@@ -321,7 +321,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presenter 1: Ethan Shry
     * Topic: GraphQL > REST
   * Presenter 2: Dan Schaeffer
-    * Topic: pfSense Open Source Firewall and Router
+    * Topic: pfSense Open Source Firewall and Router 
   * Presenter 3:
     * Topic:
 
