@@ -333,8 +333,8 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Get more client feedback!!!
   * Presentation planning has started
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Junbin Ma
+    * Topic: Challenges for OSS maintainers - real world examples
   * Presenter 2: David Huang
     * Topic: Be careful who you trust (npm event-stream)
   * Presenter 3:
