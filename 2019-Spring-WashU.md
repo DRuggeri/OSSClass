@@ -322,8 +322,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: GraphQL > REST
   * Presenter 2: Dan Schaeffer
     * Topic: pfSense Open Source Firewall and Router 
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Jessica Ridderhoff
+    * Topic: Why Python (and packages) will be the death of Matlab 
 
 ### Wed Apr 10
 * Sprint 5 retro
@@ -337,7 +337,7 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Challenges for OSS maintainers - real world examples
   * Presenter 2: David Huang
     * Topic: Be careful who you trust (npm event-stream)
-  * Presenter 3:
+  * Presenter 3: 
     * Topic:
 
 ### Mon Apr 15
