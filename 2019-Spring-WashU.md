@@ -376,8 +376,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Apache 2
     * BSD
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Kevin Fu
+    * Topic: Wine (What is it good for?)
   * Presenter 2: Jin Han
     * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
   * Presenter 3: Siam Abd Al-Ilah
