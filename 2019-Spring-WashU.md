@@ -380,8 +380,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic:
   * Presenter 2: Jin Han
     * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Siam Abd Al-Ilah
+    * Topic: Why I like Kotlin
 
 ### Wed Apr 24
 * Open time - final exam review
