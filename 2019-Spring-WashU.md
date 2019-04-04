@@ -337,8 +337,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Challenges for OSS maintainers - real world examples
   * Presenter 2: David Huang
     * Topic: Be careful who you trust (npm event-stream)
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Louise Zhu
+    * Topic: Mozilla Firefox and community led marketing
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
