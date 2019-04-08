@@ -393,8 +393,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1:
     * Topic:
-  * Presenter 2:
-    * Topic:
+  * Presenter 2: Aumesh Misra
+    * Topic: What is Kubernetes?
   * Presenter 3:
     * Topic:
 
