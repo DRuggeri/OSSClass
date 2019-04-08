@@ -384,12 +384,14 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Why I like Kotlin
 
 ### Wed Apr 24
-* Open time - final exam review
-* Sprint 6 retro
-* Check-in:
-  * Client loves the project
-  * Documentation should be in place
-  * Presentation should be ready
+* Four Parts:
+  * Open time - final exam review
+  * Conclusion of Final examination
+  * Sprint 6 retro
+  * Check-in:
+    * Client loves the project
+    * Documentation should be in place
+    * Presentation should be ready
 * Open Source Presentations
   * Presenter 1:
     * Topic:
@@ -398,14 +400,11 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presenter 3:
     * Topic:
 
-### Mon Apr 29
-* Project presentations
-
-### Wed May 1
-* Project presentations
-
 ### Mon May 6
-* Final examination
+* Project presentations
+
+### Wed May 8
+* Project presentations
 
 
 ## Thanks and Attributions
