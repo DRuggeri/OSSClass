@@ -397,8 +397,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: What is TensorFlow
   * Presenter 2: Aumesh Misra
     * Topic: What is Kubernetes?
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Dominique Senteza
+    * Topic: Open Source and IoT
 
 ### Mon May 6
 * Project presentations
