@@ -402,6 +402,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 
 ### Mon May 6
 * Project presentations
+ * Presenter 2: Amazon
 
 ### Wed May 8
 * Project presentations
