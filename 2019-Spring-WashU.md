@@ -359,8 +359,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 * Open Source Presentations
-  * Presenter 1:Jianxing (Jason) Liao
-    * Topic: Firefox - Open Source Browser
+  * Presenter 1: Jin Han
+    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
   * Presenter 2: Yipeng Wang
     * Topic: Why Hugo Is the Best Open Source Static Site Generator
   * Presenter 3: Shane Tong
@@ -378,8 +378,8 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1: Kevin Fu
     * Topic: Wine (What is it good for?)
-  * Presenter 2: Jin Han
-    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
+  * Presenter 2: Jianxing (Jason) Liao
+    * Topic: LibreOffice
   * Presenter 3: Siam Abd Al-Ilah
     * Topic: Why I like Kotlin
 
