@@ -393,8 +393,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Documentation should be in place
     * Presentation should be ready
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Kevin Ha
+    * Topic: What is TensorFlow
   * Presenter 2: Aumesh Misra
     * Topic: What is Kubernetes?
   * Presenter 3:
