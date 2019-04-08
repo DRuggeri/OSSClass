@@ -351,7 +351,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presenter 1: Benjamin Choi
     * Topic: MVC / Spring Framework
   * Presenter 2:
-    * Topic:
+    * Topic: Open Source IPO's
   * Presenter 3:Christian Anyanwu
     * Topic: Why most of Machine Learning is Open Source
 
