@@ -5,7 +5,7 @@
   * Generally, as projects grow, they move away from BDFL/Lone Wolf models
     * More "stable" over time if more get involved
     * With more heads come more ideas
-* There is a genereal path for getting involved
+* There is a general path for getting involved
   * Not 100% of people take this route
   * Some folks take the route only up to a certain point
 * See definitions below

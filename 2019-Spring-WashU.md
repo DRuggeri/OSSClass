@@ -1,5 +1,5 @@
 # Computer Science and Engineering - Software Engineering Workshop
-An introduction and exploration of concepts and issues related to large-scale software systems development. Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development. Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation. Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability and others are addressed and resolved in a reasonable manner. Prerequisite: Junior or Senior standing
+An introduction and exploration of concepts and issues related to large-scale software systems development. Areas of exploration include technical complexities, organization issues, and communication techniques for large-scale development. Students participate through teams emulating industrial development. The projects cover the principal system development life-cycle phases from requirements analysis, to software design, and to final implementation. Issues relating to real-time control systems, human factors, reliability, performance, operating costs, maintainability, and others are addressed and resolved in a reasonable manner. Prerequisite: Junior or Senior standing
 
 ## Course Overview
 This course is intended to introduce students to the concepts of Open Source software development as well as deliver a software product for a real-world client. Specific areas of focus are:
@@ -35,7 +35,7 @@ In full transparency, the assignments as well as how they are graded are shared 
 ### Team Project
 This is the bulk of the grade you will earn as well as the primary focus of the class.
 Each student will participate in a team responsible for delivering a software product to a client.
-By the middle of the semester, a [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
+By the middle of the semester, an [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) should be completed.
 By the end of the semester, the final project with client feedback incorporated is expected.
 * Students will share ideas of projects in the second week
   * The client may be any real-world use case. Non-for-profits, corporate projects, campus projects, etc are all encouraged
@@ -43,9 +43,10 @@ By the end of the semester, the final project with client feedback incorporated 
   * Your client and their satisfaction is greatly important
 * Teams will be self-formed by the students and will consist of five to seven students
   * Each member of the team will receive the same grade for the project as a whole
-  * Choose your team mates wisely - ensure coverage of important skills (code and non-code)
+  * Choose your teammates wisely - ensure coverage of important skills (code and non-code)
 
-Grading for the project will be based on effective execution of the following SDLC aspects:
+
+Grading for the project will be based on the effective execution of the following SDLC aspects:
 * Gathering requirements and understanding the client's needs
 * Incorporating client feedback into designs post-MVP
 * Overall project planning and timing
@@ -82,7 +83,7 @@ Some ideas:
 * Why I love the (name) Open Source project
 * Five ways to make money on Open Source
 * An analysis of Open Source license X versus license Y
-* A guide to getting start in an Open Source project
+* A guide to getting started in an Open Source project
 
 ### Writing
 Communicating well is critically important in the world outside of the classroom and, similar to giving presentations, is a muscle that must be exercised regularly.
@@ -122,7 +123,7 @@ Opportunities will be shared as they come along.
 ## Schedule
 This is the planned schedule of events for the course.
 Since topics may run longer or come up short, expect some minor alterations.
-It's also important to note that *when you see **discussion** come up in the schedule, you should **expect the instructor to ask questions** that will verify your understanding/homework* as well as to cover some of the topics in depth.
+It's also important to note that *when you see **discussion** comes up in the schedule, you should **expect the instructor to ask questions** that will verify your understanding/homework* as well as to cover some of the topics in depth.
 
 Most class periods will be split between lecture/discussion about Open Source Software topics or class-wide work (30 to 45 minutes) with the remainder of the time dedicated to working within your teams and seeking guidance from the instructor.
 
@@ -262,8 +263,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Henry Ford's contribution to open source.
   * Presenter 2:
     * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Joshua Gelbard
+    * Topic: Swift - Apple's Surprise Move
 
 ### Wed Mar 27
 * Topic: Community models (part 2) - [lecture notes](LectureNotes/CommunityModels.md)
@@ -278,10 +279,10 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1:
     * Topic:
-  * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 2:Nirek Sharma
+    * Topic: Why I Like VSCode
+  * Presenter 3: Lucas Florence
+    * Topic: Five ways to make money on Open Source
 
 ### Mon Apr 1
 * Topic: Communications tools - [lecture notes](LectureNotes/CommunicationsTools.md)
@@ -293,16 +294,16 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic:
   * Presenter 2:
     * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 3: Visaal Ambalam
+    * Topic: What is Kafka?
 
 ### Wed Apr 3
 * Topic: Foundations - [lecture notes](LectureNotes/Foundations.md)
   * Their role (some examples)
   * US Non-for-profit types
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: John Bisognano
+    * Topic: Scaling genomics with Spotify
   * Presenter 2:
     * Topic:
   * Presenter 3:
@@ -317,10 +318,10 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Committer
     * Voter
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
-  * Presenter 2:
-    * Topic:
+  * Presenter 1: Ethan Shry
+    * Topic: GraphQL > REST
+  * Presenter 2: Dan Schaeffer
+    * Topic: pfSense Open Source Firewall and Router 
   * Presenter 3:
     * Topic:
 
@@ -332,12 +333,12 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Get more client feedback!!!
   * Presentation planning has started
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
-  * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 1: Junbin Ma
+    * Topic: Challenges for OSS maintainers - real world examples
+  * Presenter 2: David Huang
+    * Topic: Be careful who you trust (npm event-stream)
+  * Presenter 3: Louise Zhu
+    * Topic: Mozilla Firefox and community led marketing
 
 ### Mon Apr 15
 * Topic: Development best practices - [lecture notes](LectureNotes/Documentation.md)
@@ -347,23 +348,23 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Developer guidelines
     * Translation
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
+  * Presenter 1: Benjamin Choi
+    * Topic: MVC / Spring Framework
   * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+    * Topic: Open Source IPO's
+  * Presenter 3:Christian Anyanwu
+    * Topic: Why most of Machine Learning is Open Source
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
-  * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 1: Jin Han
+    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
+  * Presenter 2: Yipeng Wang
+    * Topic: Why Hugo Is the Best Open Source Static Site Generator
+  * Presenter 3: Shane Tong
+    * Topic: History and Future of JavaScript and Node.js
 
 ### Mon Apr 22
 * Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
@@ -375,12 +376,12 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Apache 2
     * BSD
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
-  * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 1: Kevin Fu
+    * Topic: Wine (What is it good for?)
+  * Presenter 2: Jianxing (Jason) Liao
+    * Topic: LibreOffice
+  * Presenter 3: Siam Abd Al-Ilah
+    * Topic: Why I like Kotlin
 
 ### Wed Apr 24
 * Four Parts:
@@ -392,15 +393,17 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Documentation should be in place
     * Presentation should be ready
 * Open Source Presentations
-  * Presenter 1:
-    * Topic:
-  * Presenter 2:
-    * Topic:
-  * Presenter 3:
-    * Topic:
+  * Presenter 1: Kevin Ha
+    * Topic: What is TensorFlow
+  * Presenter 2: Aumesh Misra
+    * Topic: What is Kubernetes?
+  * Presenter 3: Dominique Senteza
+    * Topic: Open Source and IoT
 
 ### Mon May 6
 * Project presentations
+ * Presenter 2: Amazon
+ * Presenter 3: Pupil
 
 ### Wed May 8
 * Project presentations
