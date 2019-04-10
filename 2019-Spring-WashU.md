@@ -350,21 +350,21 @@ Most class periods will be split between lecture/discussion about Open Source So
 * Open Source Presentations
   * Presenter 1: Benjamin Choi
     * Topic: MVC / Spring Framework
-  * Presenter 2:
+  * Presenter 2: Mystery Presenter
     * Topic: Open Source IPO's
   * Presenter 3:Christian Anyanwu
     * Topic: Why most of Machine Learning is Open Source
+  * Presenter 4: Jin Han
+    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
+  * Presenter 5: Yipeng Wang
+    * Topic: Why Hugo Is the Best Open Source Static Site Generator
+  * Presenter 6: Shane Tong
+    * Topic: History and Future of JavaScript and Node.js
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
 * **Homework**: Read [Chapter 7 - Release Numbering](http://producingoss.com/en/development-cycle.html#release-numbering) and [Chapter 7 - Stabilizing a Release](http://producingoss.com/en/stabilizing-a-release.html)
 * Open Source Presentations
-  * Presenter 1: Jin Han
-    * Topic: Leaflet - a JavaScript library for mobile-friendly interactive maps
-  * Presenter 2: Yipeng Wang
-    * Topic: Why Hugo Is the Best Open Source Static Site Generator
-  * Presenter 3: Shane Tong
-    * Topic: History and Future of JavaScript and Node.js
 
 ### Mon Apr 22
 * Topic: Licenses!!! - [lecture notes](LectureNotes/Licenses.md)
