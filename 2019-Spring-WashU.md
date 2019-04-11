@@ -360,6 +360,8 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Why Hugo Is the Best Open Source Static Site Generator
   * Presenter 6: Shane Tong
     * Topic: History and Future of JavaScript and Node.js
+  * Presenter 7: Julia Dickerman
+    * Topic: Open Source's Inclusivity Problem
 
 ### Wed Apr 17
 * Topic: Guest speaker: [Joanna Lee](https://www.linkedin.com/in/joanna-lee-9630935)
