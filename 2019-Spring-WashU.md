@@ -349,7 +349,7 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Translation
 * Open Source Presentations
   * Presenter 1: Benjamin Choi
-    * Topic: MVC / Spring Framework
+    * Topic: What is Apigee
   * Presenter 2: Mystery Presenter
     * Topic: Open Source IPO's
   * Presenter 3:Christian Anyanwu
