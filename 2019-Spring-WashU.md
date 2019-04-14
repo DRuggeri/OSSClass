@@ -381,7 +381,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presenter 1: Kevin Fu
     * Topic: Wine (What is it good for?)
   * Presenter 2: Jianxing (Jason) Liao
-    * Topic: LibreOffice
+    * Topic: Why is LibreOffice so powerful?
   * Presenter 3: Siam Abd Al-Ilah
     * Topic: Why I like Kotlin
 
