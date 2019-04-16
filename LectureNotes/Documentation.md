@@ -34,7 +34,7 @@
         * Required [dependencies](Dependencies.md) for runtime
         * Basic overview
         * Should be a pointer to the full documentation
-    * Cool trick: In github, make a README.md file
+    * Cool trick: In GitHub, make a README.md file
       * This becomes the landing page of your project
       * Most hosting tools work this way as well
   * CHANGELOG
@@ -46,7 +46,7 @@
       * It improves performance
   * LICENSE
     * The exact text of your [license](Licenses.md)
-    * Lets the user know what they are getting into
+    * Lets the users know what they are getting into
     * Informs people inclined to contribute what model this project has
       * Some users or developers look for certain licenses
   * CONTRIBUTING
