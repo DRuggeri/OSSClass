@@ -387,10 +387,6 @@ Most class periods will be split between lecture/discussion about Open Source So
 ### Wed Apr 24
 * Conclusion of Final examination
 * Sprint 6 retro
-* Check-in:
-  * Client loves the project
-  * Documentation should be in place
-  * Presentation should be ready
 * Open Source Presentations
   * Presenter 1: Kevin Ha
     * Topic: What is TensorFlow
@@ -400,11 +396,19 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Open Source and IoT
 
 ### Mon May 6
+* Check-in:
+  * Client loves the project
+  * Documentation should be in place
+  * Software can be run and evaluated by professors
 * Project presentations
  * Presenter 2: Amazon
  * Presenter 3: Pupil
 
 ### Wed May 8
+* Check-in:
+  * Client loves the project
+  * Documentation should be in place
+  * Software can be run and evaluated by professors
 * Project presentations
 
 
