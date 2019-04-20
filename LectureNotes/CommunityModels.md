@@ -6,7 +6,7 @@
   * Examples
 * The models are all about *governance*
 * What is governance (see definition)?
-  * Formally put together in bylaws, but not always done so formally as we'll see
+  * Formally put together in by laws, but not always done so formally as we'll see
   * The set of rules around the project that determines who...
     * ... gets commit bit
     * ... is allowed to make decisions
