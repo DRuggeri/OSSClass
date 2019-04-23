@@ -400,7 +400,9 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: What is Kubernetes?
   * Presenter 3: Dominique Senteza
     * Topic: Open Source and IoT
-
+  * Presenter 4: Zahra Lambe
+    * Topic: Open Source and Blockchain
+  
 ### Mon May 6
 * Project presentations -- Cupples II L 015
  * Presenter 1: Cambridge
