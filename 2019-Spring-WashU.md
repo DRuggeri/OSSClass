@@ -395,7 +395,7 @@ Most class periods will be split between lecture/discussion about Open Source So
   * Presentation should be ready
 * Open Source Presentations
   * Presenter 1: Kevin Ha
-    * Topic: What is TensorFlow
+    * Topic: React Native makes lives easier
   * Presenter 2: Aumesh Misra
     * Topic: What is Kubernetes?
   * Presenter 3: Dominique Senteza
