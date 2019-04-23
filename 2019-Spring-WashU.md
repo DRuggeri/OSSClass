@@ -406,6 +406,7 @@ Most class periods will be split between lecture/discussion about Open Source So
  * Presenter 1: Cambridge
  * Presenter 2: Amazon
  * Presenter 3: Pupil
+ * Presenter 4: Fuzzies
 
 ### Wed May 8
 * Project presentations
