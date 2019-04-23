@@ -402,13 +402,13 @@ Most class periods will be split between lecture/discussion about Open Source So
     * Topic: Open Source and IoT
 
 ### Mon May 6
-* Project presentations
+* Project presentations -- Cupples II L 015
  * Presenter 1: Cambridge
  * Presenter 2: Amazon
  * Presenter 3: Pupil
 
 ### Wed May 8
-* Project presentations
+* Project presentations -- Cupples II L 015
 
 
 ## Thanks and Attributions
