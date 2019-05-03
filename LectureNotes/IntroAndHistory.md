@@ -77,7 +77,7 @@
   * AI lab at MIT
     * Culture of SW sharing at MIT
       * Common to academia
-      * Similar to sharing reaearch
+      * Similar to sharing research
     * Co-workers hired away by a proprietary SW company
     * New HW w/proprietary OS went to the lab
   * Resigned and started FSF
