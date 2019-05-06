@@ -411,6 +411,7 @@ Most class periods will be split between lecture/discussion about Open Source So
 
 ### Wed May 8
 * Project presentations -- Cupples II L 015
+ * Presenter 1: Sicnum
 
 
 ## Thanks and Attributions
