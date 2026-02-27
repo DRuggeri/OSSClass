@@ -19,7 +19,7 @@ Daniel Ruggeri
 &nbsp;
 
 See LinkedIn if you care for more...
-- DRuggeri<span>@</span>primary.net
+- daniel<span>@</span>bitnebula.com
 
 ----
 ## So many things, so little time
