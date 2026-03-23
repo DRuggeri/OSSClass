@@ -33,8 +33,6 @@ In this presentation
 - Terminology
 - Licenses
 
-&nbsp;
-
 ##### _... what is most interesting to you?_
 
 ---
@@ -233,15 +231,15 @@ Popular tools:
 ----
 ## Other Collaboration Tools
 
-Various other tools exist for various purposes
-- Realtime chat for takling and ChatOps
+Various other tools exist for various other purposes
+- Realtime chat for talking and ChatOps
 - Patch management for discussing code changes
 - Message forums for ongoing conversations
 - WIKI sites for easy documentation
 
 Popular tools:
-- Slack/HipChat/IRC
 - GitHub/GitLab/BitBucket
+- Slack/HipChat/IRC
 - phpBB/FUDforum/Discourse
 - MediaWiki/Confluence/MoinMoin
 
@@ -371,7 +369,7 @@ Permissive license
 ----
 ## Great source of license popularity
 <small>
-##### [https://www.blackducksoftware.com/top-open-source-licenses](https://www.blackducksoftware.com/top-open-source-licenses)
+##### [https://opensource.org/blog/top-open-source-licenses-in-2025](https://opensource.org/blog/top-open-source-licenses-in-2025)
 </small>
 
 ---
