@@ -46,6 +46,7 @@ It's software, of course... and it's _everywhere_!
 - Research
 - Big data
 - Your pocket
+- Space
 
 ----
 ## Side notes
